@@ -1,4 +1,4 @@
-# TITLE
+# Affirm: Making Purchasing Power Accessible
 
 ## Overview and Origin
 
