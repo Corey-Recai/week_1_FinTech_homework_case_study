@@ -1,4 +1,4 @@
-![Affirm_Logo](/images/affirm_logo.png)
+![Affirm_Logo](/images/affirm_logo.png=100x100)
 # Affirm: Making Purchasing Power Accessible
 
 ## Overview and Origin
