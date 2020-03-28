@@ -2,6 +2,7 @@
 # Affirm: Making Purchasing Power Accessible
 
 ## Overview and Origin
+
 Affirm was founded in 2012 by Max Levchin, Nathan Gettings and Jeffrey Kaditz. 
 
 Affirm was founded by Max Levchin (also a co-founder of PayPal) in an effort to fix the credit card business. In Lecvchin's opinion:
@@ -50,12 +51,9 @@ There are other companies competing in the consumer payment solutions domain, ho
 
 ## Results
 
-* What has been the business impact of this company so far?
+Affirm has disrupted traditional payment methods in the retail space. Utilizing a completely web based interface and extending instant purchasing power to comsumers has eliminated the need for consumers to use payment cards during checkout or have a credit account with a traditional lending instution in order to make a purchase. 
 
-* What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
-
-* How is your company performing relative to competitors in the same domain?
-
+Compared to competitors in the space Affirm has a larger market presence based on the metrics of partnerships both in quantity and diversity. Affirm has partnered with large retailers such a WalMart that offer a wide range of products, as well as niche retailers such as automitive parts stores (ECS Tuning), clothing reailers (Combatant Gentlemen) and companies across various other spaces including technology (computers, parts and accessories), lifestyle companies, jewelry merchants and even service providers.
 
 ## Recommendations
 
