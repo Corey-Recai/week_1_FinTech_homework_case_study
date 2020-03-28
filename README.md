@@ -1,4 +1,4 @@
-![Affirm_Logo](/images/affirm_logo.png =100x100)
+<img> src="https://github.com/Corey-Recai/week_1_FinTech_homework_case_study/blob/master/images/affirm_logo.png" width="100" height="100" </img>
 # Affirm: Making Purchasing Power Accessible
 
 ## Overview and Origin
