@@ -40,12 +40,13 @@ Affirm uses proprietary technology that employs deep web searches to parse throu
 
 ## Landscape:
 
-* What domain of the financial industry is the company in?
+Affirm is in the FinTech consumer payment solutions domain of the financial indistry. Affirm's ability to extend credit instantly on a purchase based basis makes them uniquie and one of the only companies in this space.
 
-* What have been the major trends and innovations of this domain over the last 5-10 years?
+Max Levchin, the founder of Affirm, is also the co-founder of PayPal. PayPal one of the first innvoators in the payment processing, money transfer and online banking industry, and has paved the way for several companies to innovate in this space. 
 
-* What are the other major companies in this domain?
+Affirm utilizes some of PayPal's innovations, however, Affirm's strict focus on transparent and affordable credit lending by using both traditional and bespoke metrics allowis them to dominate the industry and have a platform that is partnered with the most widely used retail institutions.  
 
+There are other companies competing in the consumer payment solutions domain, however, there is only one other notable competitor that offers a similar product, that company is Bread. The other competitors such as AfterPay, Klarna, QuadPay and EasyPay split the purchase price of an item into a fixed number of payments (usually 4 or 6 weekly paymnets). This solution works well for smaller purchases, however, it does not make purchasing accessible to consumers looking to make large purchases. Additionly, the weekly payments that the other companies in the space offer are less attractive to consumers who are looking for lower installment amounts and longer repayment periods.
 
 ## Results
 
