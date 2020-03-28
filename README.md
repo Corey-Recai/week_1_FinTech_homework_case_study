@@ -1,4 +1,4 @@
-[![Affirm_Logo](/assets/affirm_logo.png)](https://www.affirm.com/)
+[![Affirm_Logo](/assets/img/affirm_logo.png)](https://www.affirm.com/)
 # [Affirm](https://www.affirm.com/): Making Purchasing Power Accessible
 
 ## Overview and Origin
