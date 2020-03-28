@@ -29,7 +29,7 @@ As of today [Affirm](https://www.affirm.com/) has achived $1 Billion dollars in 
 
 [Affirm's](https://www.affirm.com/) target market is consumers who are looking to finance purchases and avoid the lack of transparency in the current credit lending market without using traditional credit options.
 
->"Unlike payment options that have compounding interest and unexpected costs, [Affirm](https://www.affirm.com/) shows customers upfront exactly what they’ll pay each month — with no hidden fees and no surprises. [Affirm](https://www.affirm.com/) partners with over 1,200 merchants, including travel retailers like Expedia, Orbitz, CheapAir and Suiteness, giving shoppers the option to pay with [Affirm](https://www.affirm.com/) at checkout."
+>"Unlike payment options that have compounding interest and unexpected costs, [Affirm](https://www.affirm.com/) shows customers upfront exactly what they’ll pay each month — with no hidden fees and no surprises. [Affirm](https://www.affirm.com/) partners with over 1,200 merchants, including travel retailers like [Expedia](https://www.expedia.com/), [Orbitz](https://www.orbitz.com/), [CheapAir](https://www.cheapair.com/) and [Suiteness](https://www.suiteness.com/), giving shoppers the option to pay with [Affirm](https://www.affirm.com/) at checkout."
 
 [Affirm](https://www.affirm.com/) offers instant purchasing power to consumers. This is something that traditional lending institutions do not offer. Once the consumer signs in to their account (or completes and application and is approved) the order is fulfilled. 
 
