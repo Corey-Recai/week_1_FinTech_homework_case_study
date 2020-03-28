@@ -50,3 +50,22 @@ What solution does this company offer that their competitors do not or cannot of
 * What technologies would this additional product or service utilize?
 
 * Why are these technologies appropriate for your solution?
+
+
+## References
+
+https://en.wikipedia.org/wiki/Affirm_(company)
+
+https://fortune.com/2020/02/05/credit-cards-levchin-affirm-ceo-daily/
+
+https://www.crunchbase.com/organization/affirm#section-overview
+
+https://www.affirm.com/press/releases/affirm-unveils-updated-brand-new-logo-and-shopping-features-in-time-for-the-holidays
+
+https://www.pymnts.com/innovation/2019/affirm-looks-to-raise-1-5b-on-3b-valuation/
+
+https://fortune.com/2015/12/01/tech-loans-credit-affirm-zest/
+
+https://fortune.com/2015/03/27/max-levchin-hates-credit-cards/
+
+https://www.pymnts.com/news/pos-innovation/2019/max-levchin-why-affirm-expanding-customers-pay-anywhere/
