@@ -21,7 +21,7 @@ By giving up on abusive practices, Levchin admits [Affirm](https://www.affirm.co
 As of today [Affirm](https://www.affirm.com/) has achived $1 Billion dollars in total funding through 7 rounds of Venture Capital funding :money_mouth_face:. [Affirm](https://www.affirm.com/) has acquired two companies in their domain since inception, LendLayer was acquired in 2015 and Sweep was acquired in 2016.
 
 
-## Business Activities:
+## Business Activities
 
 [Affirm](https://www.affirm.com/) aims to solve the problem of lack of regulation in consumer credit lending policies :balance_scale:. [Affirm](https://www.affirm.com/) is targeting the high interest rates and late fees that keep consumers in a perpetual cycle of debt repayment :chains:.
 
@@ -39,7 +39,7 @@ As of today [Affirm](https://www.affirm.com/) has achived $1 Billion dollars in 
 
 >"Its technology scans a person’s profiles on social networks to check for clues about how they live their lives with hope that what seems irrelevant may be useful in underwriting a loan. For example, [Affirm](https://www.affirm.com/) wants to know whether a potential customer has contributed software code to digital code libraries like GitHub. What does that tell it? That the customer is who he or she says they are. Other metrics can help assess his or her ability to repay a loan. (Like other companies in the market, [Affirm](https://www.affirm.com/) is tight-lipped about how those data points specifically factor into a credit decision, to safeguard its algorithms against snooping competitors.)"
 
-## Landscape:
+## Landscape
 
 [Affirm](https://www.affirm.com/) is in the FinTech consumer payment solutions domain of the financial indistry. [Affirm's](https://www.affirm.com/) ability to extend credit instantly on a purchase based basis makes them uniquie and one of the only companies in this space :key:.
 
@@ -63,7 +63,7 @@ The way it would work is that once you have created an account with [Affirm](htt
 
 That card number would be linked to a purchase verification system that allows you to use the card at *any* retailer or institution that accepts card payments. Once purchase is made [Affirm](https://www.affirm.com/) would recive the purchase information and approve or deny the purchase based on the verifying data of the card holder. 
 
-This would create the ability for [Affirm](https://www.affirm.com/) to create and [Affirm](https://www.affirm.com/)Score based on the users repayment history :file_cabinet:. This information can be used and shared with other lending instutions as a form of verification for other credit products or as a general accountability metric.
+This would create the ability for [Affirm](https://www.affirm.com/) to create and [Affirm](https://www.affirm.com/) Score based on the users repayment history :file_cabinet:. This information can be used and shared with other lending instutions as a form of verification for other credit products or as a general accountability metric.
 
 This solution cam employ varoius technologies such as Python, C++, Java, SQL, and JavaScript :memo: for analytics of repayment history, assesing a borrowers credit worthiness and asigning scores. 
 
