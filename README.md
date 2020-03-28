@@ -5,7 +5,7 @@
 
 [Affirm](https://www.affirm.com/) was founded in 2012 by Max Levchin, Nathan Gettings and Jeffrey Kaditz. 
 
-[Affirm](https://www.affirm.com/) was founded by Max Levchin (also a co-founder of [PayPal](https://www.paypal.com/us/home)) in an effort to fix the credit card business. In Lecvchin's opinion:
+[Affirm](https://www.affirm.com/) was founded by Max Levchin (also a co-founder of [PayPal](https://www.paypal.com/us/home)) in an effort to fix the credit card business :clap: :raised_hands:. In Lecvchin's opinion:
 
 > High interest rates and late fees make credit cards abusive to many low-income borrowers.
 
