@@ -1,3 +1,4 @@
+![Affirm_Logo](/images/affirm_logo.png)
 # Affirm: Making Purchasing Power Accessible
 
 ## Overview and Origin
