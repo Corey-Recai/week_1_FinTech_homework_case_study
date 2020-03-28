@@ -41,31 +41,31 @@ As of today [Affirm](https://www.affirm.com/) has achived $1 Billion dollars in 
 
 ## Landscape:
 
-[Affirm](https://www.affirm.com/) is in the FinTech consumer payment solutions domain of the financial indistry. [Affirm's](https://www.affirm.com/) ability to extend credit instantly on a purchase based basis makes them uniquie and one of the only companies in this space.
+[Affirm](https://www.affirm.com/) is in the FinTech consumer payment solutions domain of the financial indistry. [Affirm's](https://www.affirm.com/) ability to extend credit instantly on a purchase based basis makes them uniquie and one of the only companies in this space :key:.
 
-Max Levchin, the founder of [Affirm](https://www.affirm.com/), is also the co-founder of [PayPal](https://www.paypal.com/us/home). [PayPal](https://www.paypal.com/us/home) one of the first innvoators in the payment processing, money transfer and online banking industry, and has paved the way for several companies to innovate in this space. 
+Max Levchin, the founder of [Affirm](https://www.affirm.com/), is also the co-founder of [PayPal](https://www.paypal.com/us/home). [PayPal](https://www.paypal.com/us/home) one of the first innvoators in the payment processing, money transfer and online banking industry, and has paved the way for several companies to innovate in this space :closed_lock_with_key:	. 
 
 [Affirm](https://www.affirm.com/) utilizes some of [PayPal's](https://www.paypal.com/us/home) innovations, however, [Affirm's](https://www.affirm.com/) strict focus on transparent and affordable credit lending by using both traditional and bespoke metrics allowis them to dominate the industry and have a platform that is partnered with the most widely used retail institutions.  
 
-There are other companies competing in the consumer payment solutions domain, however, there is only one other notable competitor that offers a similar product, that company is [Bread](https://www.getbread.com/). The other competitors such as [AfterPay](https://www.afterpay.com/index), [Klarna](https://www.klarna.com/us/), [QuadPay](https://www.quadpay.com/) and [EasyPay](https://www.easypayfinance.com/) split the purchase price of an item into a fixed number of payments (usually 4 or 6 weekly paymnets). This solution works well for smaller purchases, however, it does not make purchasing accessible to consumers looking to make large purchases. Additionly, the weekly payments that the other companies in the space offer are less attractive to consumers who are looking for lower installment amounts and longer repayment periods.
+There are other companies competing in the consumer payment solutions domain, however, there is only one other notable competitor that offers a similar product, that company is [Bread](https://www.getbread.com/). The other competitors such as [AfterPay](https://www.afterpay.com/index), [Klarna](https://www.klarna.com/us/), [QuadPay](https://www.quadpay.com/) and [EasyPay](https://www.easypayfinance.com/) split the purchase price of an item into a fixed number of payments (usually 4 or 6 weekly paymnets). This solution works well for smaller purchases, however, it does not make purchasing accessible to consumers looking to make large purchases. Additionly, the weekly payments that the other companies in the space offer are less attractive to consumers who are looking for lower installment amounts and longer repayment periods :zzz:.
 
 ## Results
 
-[Affirm](https://www.affirm.com/) has disrupted traditional payment methods in the retail space. Utilizing a completely web based interface and extending instant purchasing power to comsumers has eliminated the need for consumers to use payment cards during checkout or have a credit account with a traditional lending instution in order to make a purchase. 
+[Affirm](https://www.affirm.com/) has disrupted traditional payment methods in the retail space :muscle:. Utilizing a completely web based interface and extending instant purchasing power to comsumers has eliminated the need for consumers to use payment cards during checkout or have a credit account with a traditional lending instution in order to make a purchase. 
 
-Compared to competitors in the space [Affirm](https://www.affirm.com/) has a larger market presence based on the metrics of partnerships both in quantity and diversity. [Affirm](https://www.affirm.com/) has partnered with large retailers such a [WalMart](https://www.walmart.com/) that offer a wide range of products, as well as niche retailers such as automitive parts stores ([ECS Tuning](https://www.ecstuning.com/)), clothing reailers ([Combatant Gentlemen](https://combatgent.com/)) and companies across various other spaces including technology (computers, parts and accessories), lifestyle companies, jewelry merchants and even service providers.
+Compared to competitors in the space [Affirm](https://www.affirm.com/) has a larger market presence based on the metrics of partnerships both in quantity and diversity. [Affirm](https://www.affirm.com/) has partnered with large retailers such a [WalMart](https://www.walmart.com/) that offer a wide range of products, as well as niche retailers such as automitive parts stores ([ECS Tuning](https://www.ecstuning.com/)), clothing reailers ([Combatant Gentlemen](https://combatgent.com/)) and companies across various other spaces including technology (computers, parts and accessories), lifestyle companies, jewelry merchants and even service providers :sunglasses: :boom:.
 
 ## Recommendations
 
-If I were to advise [Affirm](https://www.affirm.com/), I would suggest that they offer dedicated virtual cards to consumers. This wouldn't change their purchase based lending method, it would create an account based credit tracking system.
+If I were to advise [Affirm](https://www.affirm.com/), I would suggest that they offer dedicated virtual cards to consumers. This wouldn't change their purchase based lending method, it would create an account based credit tracking system :nerd_face:. 
 
 The way it would work is that once you have created an account with [Affirm](https://www.affirm.com/) and entered your verifying information you would be assigned an account number and a card number. The card would not be assigned a value or a credit limit, annd would only recieve a credit limit once a purchase is made. 
 
-That card number would be linked to a prucahse verification system that allows you to use the card at *any* retailer or institution that accepts card payments. Once purchase is made [Affirm](https://www.affirm.com/) would recive the purchase information and approve or deny the purchase based on the verifying data of the card holder. 
+That card number would be linked to a purchase verification system that allows you to use the card at *any* retailer or institution that accepts card payments. Once purchase is made [Affirm](https://www.affirm.com/) would recive the purchase information and approve or deny the purchase based on the verifying data of the card holder. 
 
-This would create the ability for [Affirm](https://www.affirm.com/) to create and [Affirm](https://www.affirm.com/)Score based on the users repayment history. This information can be used and shared with other lending instutions as a form of verification for other credit products or as a general accountability metric.
+This would create the ability for [Affirm](https://www.affirm.com/) to create and [Affirm](https://www.affirm.com/)Score based on the users repayment history :file_cabinet:. This information can be used and shared with other lending instutions as a form of verification for other credit products or as a general accountability metric.
 
-This solution cam employ varoius technologies such as Python, C++, Java, SQL, and JavaScript for analytics of repayment history, assesing a borrowers credit worthiness and asigning scores. 
+This solution cam employ varoius technologies such as Python, C++, Java, SQL, and JavaScript :memo: for analytics of repayment history, assesing a borrowers credit worthiness and asigning scores. 
 
 ## References
 
