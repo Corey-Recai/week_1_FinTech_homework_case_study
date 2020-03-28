@@ -69,18 +69,18 @@ This solution cam employ varoius technologies such as Python, C++, Java, SQL, an
 
 ## References
 
-https://en.wikipedia.org/wiki/Affirm_(company)
+“Affirm.” Crunchbase, Crunchbase Inc., www.crunchbase.com/organization/affirm#section-overview
 
-https://fortune.com/2020/02/05/credit-cards-levchin-affirm-ceo-daily/
+Affirm. “Fintech Company Affirm Unveils Updated Brand, New Logo and Shopping Features in Time for the Holidays.” Affirm, Affirm, Inc., www.affirm.com/press/releases/affirm-unveils-updated-brand-new-logo-and-shopping-features-in-time-for-the-holidays
 
-https://www.crunchbase.com/organization/affirm#section-overview
+“Affirm (Company).” Wikipedia, Wikimedia Foundation, 7 Mar. 2020, en.wikipedia.org/wiki/Affirm_(company).
 
-https://www.affirm.com/press/releases/affirm-unveils-updated-brand-new-logo-and-shopping-features-in-time-for-the-holidays
+Murray, Alan, and David Meyer. “Fixing the Credit Card Business.” Fortune, Fortune, 5 Feb. 2020, fortune.com/2020/02/05/credit-cards-levchin-affirm-ceo-daily/
 
-https://www.pymnts.com/innovation/2019/affirm-looks-to-raise-1-5b-on-3b-valuation/
+Nusca, Andrew. “Why Max Levchin Hates Credit Cards.” Fortune, Fortune, 27 Mar. 2015, fortune.com/2015/03/27/max-levchin-hates-credit-cards/
 
-https://fortune.com/2015/12/01/tech-loans-credit-affirm-zest/
+Pymnts. “Affirm Looks To Raise $1.5B On $3B Valuation.” PYMNTS.com, PYMNTS.com, 13 Sept. 2019, www.pymnts.com/innovation/2019/affirm-looks-to-raise-1-5b-on-3b-valuation/
 
-https://fortune.com/2015/03/27/max-levchin-hates-credit-cards/
+Pymnts. “New Affirm App Lets Users Pay Anywhere.” PYMNTS.com, PYMNTS.com, 8 Oct. 2019, www.pymnts.com/news/pos-innovation/2019/max-levchin-why-affirm-expanding-customers-pay-anywhere/
 
-https://www.pymnts.com/news/pos-innovation/2019/max-levchin-why-affirm-expanding-customers-pay-anywhere/
+Reisinger, Don. “Tech Companies Are Changing How Consumers Get Loans.” Fortune, Fortune, 31 Dec. 2015, fortune.com/2015/12/01/tech-loans-credit-affirm-zest/.
