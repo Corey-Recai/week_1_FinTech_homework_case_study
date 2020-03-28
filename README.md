@@ -9,7 +9,7 @@
  
 > "High interest rates and late fees make credit cards abusive to many low-income borrowers." - Max Levchin via [fortune.com](https://fortune.com/2020/02/05/credit-cards-levchin-affirm-ceo-daily/)
  
-[Affirm](https://www.affirm.com/) partners with stores to offer credit :credit_card: at the point of purchase :dollar:. The process is quite streamlined and invokes a [PayPal-esque](https://www.paypal.com/us/home) user interface. At checkout, much like [PayPal](https://www.paypal.com/us/home), consumers have the option to select [Affirm](https://www.affirm.com/) as a payment option and then sign into their account (or create an account for first-time users)
+[Affirm](https://www.affirm.com/) partners with stores to offer credit :credit_card: at the point of purchase :dollar:. The process is quite streamlined and invokes a [PayPal-esque](https://www.paypal.com/us/home) user interface. At checkout, much like [PayPal](https://www.paypal.com/us/home), consumers have the option to select [Affirm](https://www.affirm.com/) as a payment option and then sign into their account (or create an account for first-time users).
  
 [Affirm](https://www.affirm.com/) uses its own credit scoring system :chart_with_upwards_trend: in addition to the FICO scoring system allowing consumers with less than perfect scores to obtain credit based on unique scoring factors. Additionally, [Affirm](https://www.affirm.com/) does not employ late fees, deferred interest or punitive rates :massage:.
  
