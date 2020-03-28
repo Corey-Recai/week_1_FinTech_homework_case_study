@@ -57,14 +57,15 @@ Compared to competitors in the space Affirm has a larger market presence based o
 
 ## Recommendations
 
-* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
+If I were to advise Affirm, I would suggest that they offer dedicated virtual cards to consumers. This wouldn't change their purchase based lending method, it would create an account based credit tracking system.
 
-* Why do you think that offering this product or service would benefit the company?
+The way it would work is that once you have created an account with Affirm and entered your verifying information you would be assigned an account number and a card number. The card would not be assigned a value or a credit limit, annd would only recieve a credit limit once a purchase is made. 
 
-* What technologies would this additional product or service utilize?
+That card number would be linked to a prucahse verification system that allows you to use the card at *any* retailer or institution that accepts card payments. Once purchase is made Affirm would recive the purchase information and approve or deny the purchase based on the verifying data of the card holder. 
 
-* Why are these technologies appropriate for your solution?
+This would create the ability for Affirm to create and Affirm Score based on the users repayment history. This information can be used and shared with other lending instutions as a form of verification for other credit products or as a general accountability metric.
 
+This solution cam employ varoius technologies such as Python, C++, Java, SQL, and JavaScript for analytics of repayment history, assesing a borrowers credit worthiness and asigning scores. 
 
 ## References
 
