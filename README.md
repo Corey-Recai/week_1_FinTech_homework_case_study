@@ -22,13 +22,21 @@ As of today Affirm has achived $1 Billion dollars in total funding through 7 rou
 
 ## Business Activities:
 
-* What specific financial problem is the company or project trying to solve?
+Affirm aims to solve the problem of lack of regulation in consumer credit lending policies. Affirm is targeting the high interest rates and late fees that keep consumers in a perpetual cycle of debt repayment.
 
-* Who is the company's intended customer?  Is there any information about the market size of this set of customers?
-What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
+>"Our goal is to revolutionize the banking industry to be more accountable and accessible to consumers. Today, Affirm provides shoppers an alternative to traditional credit cards at the point of sale, giving them the flexibility to buy now and make simple monthly payments for their purchases." 
 
-* Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
+Affirm's target market is consumers who are looking to finance purchases and avoid the lack of transparency in the current credit lending market without using traditional credit options.
 
+>"Unlike payment options that have compounding interest and unexpected costs, Affirm shows customers upfront exactly what they’ll pay each month — with no hidden fees and no surprises. Affirm partners with over 1,200 merchants, including travel retailers like Expedia, Orbitz, CheapAir and Suiteness, giving shoppers the option to pay with Affirm at checkout."
+
+Affirm offers instant purchasing power to consumers. This is something that traditional lending institutions do not offer. Once the consumer signs in to their account (or completes and application and is approved) the order is fulfilled. 
+
+Affirm creates acountability in spending by offering purchase based financing, meaning that there isn't an open-ended credit limit, cred limits are assigned based on the purchase amount. This aids in responsible spending on the side of the consumer and also allows Affirm to create trust based transactional relationships with both retailers and consumers.
+
+Affirm uses proprietary technology that employs deep web searches to parse through a wide range of sources to help decide if applicants should receive loans. 
+
+>"Its technology scans a person’s profiles on social networks to check for clues about how they live their lives with hope that what seems irrelevant may be useful in underwriting a loan. For example, Affirm wants to know whether a potential customer has contributed software code to digital code libraries like GitHub. What does that tell it? That the customer is who he or she says they are. Other metrics can help assess his or her ability to repay a loan. (Like other companies in the market, Affirm is tight-lipped about how those data points specifically factor into a credit decision, to safeguard its algorithms against snooping competitors.)"
 
 ## Landscape:
 
