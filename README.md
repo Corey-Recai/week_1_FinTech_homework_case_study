@@ -7,16 +7,16 @@
 
 [Affirm](https://www.affirm.com/) was founded by Max Levchin (also a co-founder of [PayPal](https://www.paypal.com/us/home)) in an effort to fix the credit card business :clap: :raised_hands:. In Lecvchin's opinion:
 
-> "High interest rates and late fees make credit cards abusive to many low-income borrowers." - Max Levchin via 
+> "High interest rates and late fees make credit cards abusive to many low-income borrowers." - Max Levchin via [fortune.com](https://fortune.com/2020/02/05/credit-cards-levchin-affirm-ceo-daily/)
 
  [Affirm](https://www.affirm.com/) partners with stores to offer credit :credit_card: at the point of purchase :dollar:. The process is quite streamlines, and invokes a [PayPal-esque](https://www.paypal.com/us/home) user interface. At checkout, much like [PayPal](https://www.paypal.com/us/home), consumers have the option to select [Affirm](https://www.affirm.com/) as a payment option and then sign into their account (or create an account for first time users)
 
  [Affirm](https://www.affirm.com/) uses its own credit scoring system :chart_with_upwards_trend:, in addition to the FICO scoring system allowing consumers with less than perfect scores to obtain credit based on unique scoring factors. Additionally, [Affirm](https://www.affirm.com/) does not employ late fees, deferred interest or punitive rates :massage:.
 
-> Many credit cards “are no different than payday loans,” 
+> Many credit cards “are no different than payday loans,” - Max Levchin via [fortune.com](https://fortune.com/2020/02/05/credit-cards-levchin-affirm-ceo-daily/)
 
 By giving up on abusive practices, Levchin admits [Affirm](https://www.affirm.com/) is 
-> “actively leaving money on the table… But we live at a unique time where that is the right practice. If you want to run a company for the long term, you have to look after the borrower." 
+> “actively leaving money on the table… But we live at a unique time where that is the right practice. If you want to run a company for the long term, you have to look after the borrower." - Max Levchin via [fortune.com](https://fortune.com/2020/02/05/credit-cards-levchin-affirm-ceo-daily/) 
 
 As of today [Affirm](https://www.affirm.com/) has achived $1 Billion dollars in total funding through 7 rounds of Venture Capital funding :money_mouth_face:. [Affirm](https://www.affirm.com/) has acquired two companies in their domain since inception, LendLayer was acquired in 2015 and Sweep was acquired in 2016.
 
@@ -25,11 +25,11 @@ As of today [Affirm](https://www.affirm.com/) has achived $1 Billion dollars in 
 
 [Affirm](https://www.affirm.com/) aims to solve the problem of lack of regulation in consumer credit lending policies :balance_scale:. [Affirm](https://www.affirm.com/) is targeting the high interest rates and late fees that keep consumers in a perpetual cycle of debt repayment :chains:.
 
->"Our goal is to revolutionize the banking industry to be more accountable and accessible to consumers. Today, [Affirm](https://www.affirm.com/) provides shoppers an alternative to traditional credit cards at the point of sale, giving them the flexibility to buy now and make simple monthly payments for their purchases." 
+>"Our goal is to revolutionize the banking industry to be more accountable and accessible to consumers. Today, [Affirm](https://www.affirm.com/) provides shoppers an alternative to traditional credit cards at the point of sale, giving them the flexibility to buy now and make simple monthly payments for their purchases." - Affirm via [affirm.com](https://www.affirm.com/press/releases/affirm-unveils-updated-brand-new-logo-and-shopping-features-in-time-for-the-holidays) 
 
 [Affirm's](https://www.affirm.com/) target market is consumers who are looking to finance purchases and avoid the lack of transparency in the current credit lending market without using traditional credit options.
 
->"Unlike payment options that have compounding interest and unexpected costs, [Affirm](https://www.affirm.com/) shows customers upfront exactly what they’ll pay each month — with no hidden fees and no surprises. [Affirm](https://www.affirm.com/) partners with over 1,200 merchants, including travel retailers like [Expedia](https://www.expedia.com/), [Orbitz](https://www.orbitz.com/), [CheapAir](https://www.cheapair.com/) and [Suiteness](https://www.suiteness.com/), giving shoppers the option to pay with [Affirm](https://www.affirm.com/) at checkout."
+>"Unlike payment options that have compounding interest and unexpected costs, [Affirm](https://www.affirm.com/) shows customers upfront exactly what they’ll pay each month — with no hidden fees and no surprises. [Affirm](https://www.affirm.com/) partners with over 1,200 merchants, including travel retailers like [Expedia](https://www.expedia.com/), [Orbitz](https://www.orbitz.com/), [CheapAir](https://www.cheapair.com/) and [Suiteness](https://www.suiteness.com/), giving shoppers the option to pay with [Affirm](https://www.affirm.com/) at checkout." - Affirm via [affirm.com](https://www.affirm.com/press/releases/affirm-unveils-updated-brand-new-logo-and-shopping-features-in-time-for-the-holidays) 
 
 [Affirm](https://www.affirm.com/) offers instant purchasing power to consumers :moneybag: :credit_card:. This is something that traditional lending institutions do not offer. Once the consumer signs in to their account (or completes and application and is approved) the order is fulfilled. 
 
@@ -37,7 +37,7 @@ As of today [Affirm](https://www.affirm.com/) has achived $1 Billion dollars in 
 
 [Affirm](https://www.affirm.com/) uses proprietary technology that employs deep web searches to parse through a wide range of sources to help decide if applicants should receive loans :computer: 	:globe_with_meridians:. 
 
->"Its technology scans a person’s profiles on social networks to check for clues about how they live their lives with hope that what seems irrelevant may be useful in underwriting a loan. For example, [Affirm](https://www.affirm.com/) wants to know whether a potential customer has contributed software code to digital code libraries like GitHub. What does that tell it? That the customer is who he or she says they are. Other metrics can help assess his or her ability to repay a loan. (Like other companies in the market, [Affirm](https://www.affirm.com/) is tight-lipped about how those data points specifically factor into a credit decision, to safeguard its algorithms against snooping competitors.)"
+>"Its technology scans a person’s profiles on social networks to check for clues about how they live their lives with hope that what seems irrelevant may be useful in underwriting a loan. For example, [Affirm](https://www.affirm.com/) wants to know whether a potential customer has contributed software code to digital code libraries like GitHub. What does that tell it? That the customer is who he or she says they are. Other metrics can help assess his or her ability to repay a loan. (Like other companies in the market, [Affirm](https://www.affirm.com/) is tight-lipped about how those data points specifically factor into a credit decision, to safeguard its algorithms against snooping competitors.)" - Don Reisinger via [fortune.com](https://fortune.com/2015/12/01/tech-loans-credit-affirm-zest/)
 
 ## Landscape
 
