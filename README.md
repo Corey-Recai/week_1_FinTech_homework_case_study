@@ -2,16 +2,22 @@
 # Affirm: Making Purchasing Power Accessible
 
 ## Overview and Origin
+Affirm was founded in 2012 by Max Levchin, Nathan Gettings and Jeffrey Kaditz. 
 
-* Name of company
+Affirm was founded by Max Levchin (also a co-founder of PayPal) in an effort to fix the credit card business. In Lecvchin's opinion:
 
-* When was the company incorporated?
+> High interest rates and late fees make credit cards abusive to many low-income borrowers.
 
-* Who are the founders of the company?
+ Affirm partners with stores to offer credit at the point of purchase. The process is quite streamlines, and invokes a PayPal-esque user interface. At checkout, much like PayPal, consumers have the option to select Affirm as a payment option and then sign into their account (or create an account for first time users)
 
-* How did the idea for the company (or project) come about?
+ Affirm uses its own credit scoring system, in addition to the FICO scoring system allowing consumers with less than perfect scores to obtain credit based on unique scoring factors. Additionally, Affirm does not employ late fees, deferred interest or punitive rates.
 
-* How is the company funded? How much funding have they received?
+> Many credit cards “are no different than payday loans,” 
+
+By giving up on abusive practices, Levchin admits Affirm is 
+> “actively leaving money on the table… But we live at a unique time where that is the right practice. If you want to run a company for the long term, you have to look after the borrower." 
+
+As of today Affirm has achived $1 Billion dollars in total funding through 7 rounds of Venture Capital funding. Affirm has acquired two companies in their domain since inception, LendLayer was acquired in 2015 and Sweep was acquired in 2016.
 
 
 ## Business Activities:
